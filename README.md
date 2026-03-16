@@ -1,4 +1,4 @@
-#👋 Hey, I'm Prefna Vagheni
+# 👋 Hey, I'm Prefna Vagheni
 
 **Full-Stack Engineer** specializing in building scalable web applications with React, Next.js, and modern backend systems.
 
